@@ -11,3 +11,5 @@ To use it make a config.json in the main directory and include the following:
 }
 
 where token is equal to your bot token and clientId to your client id
+
+test commit
